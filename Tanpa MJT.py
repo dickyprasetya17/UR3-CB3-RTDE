@@ -1,7 +1,3 @@
-"""
-Code written based on servoj example from: https://github.com/davizinho5/RTDE_control_example
-"""  # Komentar yang menjelaskan bahwa kode ini ditulis berdasarkan contoh servoj dari tautan yang diberikan
-
 import sys  # Mengimpor modul sistem
 sys.path.append('')  # Menambahkan direktori saat ini ke dalam jalur sistem
 import logging  # Mengimpor modul logging

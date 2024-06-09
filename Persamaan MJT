@@ -1,4 +1,1 @@
 
-plt.xlabel('Time [s]') # Memberi label pada sumbu x sebagai 'Time [s]'
-
-plt.show() # Menampilkan plot
